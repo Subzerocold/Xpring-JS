@@ -41,7 +41,7 @@
     "eslint-plugin-import": "2.19.1",
     "eslint-plugin-mocha": "^6.2.2",
     "eslint-plugin-prettier": "3.1.2",
-    "grpc_tools_node_protoc_ts": "2.5.9",
+    "grpc_tools_node_protoc_ts": "2.5.10",
     "grpc-tools": "1.8.0",
     "mocha": "7.0.0",
     "mocha-lcov-reporter": "1.3.0",
